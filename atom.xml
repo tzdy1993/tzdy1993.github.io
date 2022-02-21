@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tzdy1993.github.io</id>
-    <title>兔子蹬鹰的个人博客</title>
-    <updated>2022-02-21T01:17:05.116Z</updated>
+    <title>兔子蹬鹰</title>
+    <updated>2022-02-21T01:41:53.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tzdy1993.github.io"/>
     <link rel="self" href="https://tzdy1993.github.io/atom.xml"/>
     <subtitle>苟利国家生死以，岂因祸福避趋之。</subtitle>
     <logo>https://tzdy1993.github.io/images/avatar.png</logo>
     <icon>https://tzdy1993.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 兔子蹬鹰的个人博客</rights>
+    <rights>All rights reserved 2022, 兔子蹬鹰</rights>
 </feed>
